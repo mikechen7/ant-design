@@ -36,6 +36,9 @@ ReactDOM.render(
         <Menu.Item key="1">nav 1</Menu.Item>
         <Menu.Item key="2">nav 2</Menu.Item>
         <Menu.Item key="3">nav 3</Menu.Item>
+        <Menu.Item key="4">nav 4</Menu.Item>
+        <Menu.Item key="5">nav 5</Menu.Item>
+        <Menu.Item key="6">nav 6</Menu.Item>
       </Menu>
     </Header>
     <Content style={{ padding: '0 50px' }}>
@@ -69,6 +72,10 @@ ReactDOM.render(
               <Menu.Item key="10">option10</Menu.Item>
               <Menu.Item key="11">option11</Menu.Item>
               <Menu.Item key="12">option12</Menu.Item>
+              <Menu.Item key="13">option13</Menu.Item>
+              <Menu.Item key="14">option14</Menu.Item>
+              <Menu.Item key="15">option15</Menu.Item>
+              <Menu.Item key="16">option16</Menu.Item>
             </SubMenu>
           </Menu>
         </Sider>
